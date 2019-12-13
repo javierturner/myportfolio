@@ -22,8 +22,8 @@ Requirements
             <!-- project 1 -->
             <!-- two other homework assignments -->
     updated resume
-    updated linkedin
-        strong bio statement
-        photo
-        link to github
-        link to portfolio
+    <!-- updated linkedin -->
+        <!-- strong bio statement -->
+        <!-- photo -->
+        <!-- link to github -->
+        <!-- link to portfolio -->
