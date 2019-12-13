@@ -1,4 +1,16 @@
 #profile-picture {
     float: right;
-    margin: 10px;
+    margin: 3px;
+    border-radius: 3%;
+    clear: left;
 }
+
+.thumbnail {
+    border-radius: 3%;
+}
+
+.callout {
+    border: none;
+}
+
+
