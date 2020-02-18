@@ -2,7 +2,7 @@
 
 ##Links to deployed application
 Github Pages: https://github.com/javierturner/myportfolio
-Deployed Application: https://javierturner.github.io/myportfolio/index.html
+Deployed Application: https://javierturner.github.io/myportfolio/
 
 
 ##Installation
