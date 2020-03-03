@@ -1,32 +1,32 @@
 # JT Turner's Portfolio
 
-##Links to deployed application
+## Links to deployed application
 Github Pages: https://github.com/javierturner/myportfolio
 Deployed Application: https://javierturner.github.io/myportfolio/
 
 
-##Installation
+## Installation
 
 There is no installation required for this project.
 
 
-##Usage
+## Usage
 
 The purpose of this website is so showcase my past projects and assignments, as well as connecting all related content such as links to my resume, linkedIn, GitHub profile.
 
 
-##Credits
+## Credits
 
 ° https://foundation.zurb.com/
 
 
-##Screenshots of completed application
+## Screenshots of completed application
 
 ![Portfolio linked to resume](assets/images/portfolio-to-resume.gif)
 ![Portfolio linked to github](assets/images/portfolio-to-github.gif)
 
 
-##License
+## License
 
 MIT License
 
